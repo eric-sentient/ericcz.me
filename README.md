@@ -1,0 +1,2 @@
+# ericcz.me
+my website!!
