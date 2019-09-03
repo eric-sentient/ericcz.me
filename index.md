@@ -12,9 +12,7 @@ So I watched a lot of people on YouTube try their hand at generating music with 
 I think that there is definitely value teaching a neural network to generate chord progressions. Harmony tends to follow general rules and guidelines. As with music in general, these rules aren't hard-coded: there is no such thing as an objectively good or bad chord progression, but there are lots of qualities that are common to chord progressions that people tend to like, such as 
 
 * cadences
-
 * chord inversions
-
 * voice leading
 
 I want to train my network to learn these qualities, as well as some general intuition as to which chords lead well into which.
