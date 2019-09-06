@@ -1,5 +1,7 @@
-## Generating chord progressions with a recurrent Autoencoder architecture
+# My first project: Generating chord progressions with a recurrent Autoencoder architecture
 *August 8, 2019*
+
+Disclaimer: this is my very first project. Apologies in advance if I say anything weird or not very correct.
 
 This is my first foray into machine learning! I've always been excited by this stuff and found myself wanting to jump in.
 
