@@ -3,7 +3,7 @@ Some music I've made
 
 [sHaMeLeSs SoUnDcLoUd pLuG](https://soundcloud.com/i_sentient)
 
-![April Sun Shower](/images/aprilsunshowers.png =250x)
+<a href="https://soundcloud.com/i_sentient/april-sun-shower"><img src="images/aprilsunshowers.png" align="left" height="256" width="256" ></a>
 
 [april sun shower](https://soundcloud.com/i_sentient/april-sun-shower)
 

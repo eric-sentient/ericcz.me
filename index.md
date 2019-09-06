@@ -1,6 +1,3 @@
-
-
-
 ### My first project: Generating chord progressions with a recurrent Autoencoder architecture
 *August 8, 2019*
 
